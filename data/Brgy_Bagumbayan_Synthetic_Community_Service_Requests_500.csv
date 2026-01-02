@@ -1,0 +1,501 @@
+request_id,barangay,municipality,province,sitio,request_type,urgency_level,severity_level,impact_scope,location_type,time_reported,weather_condition,past_similar_reports,ml_priority,final_priority
+1,Bagumbayan,Santa Cruz,Laguna,Sitio 3,Garbage Collection,Low,Severe,29,School Zone,Morning,Storm,1,Low,High
+2,Bagumbayan,Santa Cruz,Laguna,Sitio 4,Streetlight Repair,Low,Severe,140,Residential Area,Morning,Normal,3,High,High
+3,Bagumbayan,Santa Cruz,Laguna,Sitio 5,Garbage Collection,Urgent,Minor,130,Public Facility,Afternoon,Normal,7,High,High
+4,Bagumbayan,Santa Cruz,Laguna,Sitio 6,Tree Obstruction,Low,Minor,72,Commercial Area,Afternoon,Normal,3,High,High
+5,Bagumbayan,Santa Cruz,Laguna,Sitio 4,Road Damage,Low,Minor,87,Commercial Area,Afternoon,Storm,4,High,High
+6,Bagumbayan,Santa Cruz,Laguna,Sitio 5,Road Damage,Urgent,Moderate,12,Highway,Morning,Storm,4,Moderate,Moderate
+7,Bagumbayan,Santa Cruz,Laguna,Sitio 6,Road Damage,Urgent,Minor,93,Residential Area,Night,Normal,4,High,High
+8,Bagumbayan,Santa Cruz,Laguna,Sitio 4,Water Leakage,Low,Minor,21,Highway,Night,Rainy,2,Low,Low
+9,Bagumbayan,Santa Cruz,Laguna,Sitio 6,Water Leakage,Normal,Minor,95,Residential Area,Night,Storm,2,High,High
+10,Bagumbayan,Santa Cruz,Laguna,Sitio 2,Public Safety Incident,Urgent,Minor,137,Highway,Afternoon,Storm,3,High,High
+11,Bagumbayan,Santa Cruz,Laguna,Sitio 7,Streetlight Repair,Low,Minor,84,Commercial Area,Afternoon,Rainy,1,High,High
+12,Bagumbayan,Santa Cruz,Laguna,Sitio 3,Garbage Collection,Urgent,Severe,55,Highway,Afternoon,Storm,7,High,High
+13,Bagumbayan,Santa Cruz,Laguna,Sitio 2,Water Leakage,Normal,Minor,37,Public Facility,Afternoon,Storm,6,High,High
+14,Bagumbayan,Santa Cruz,Laguna,Sitio 5,Public Safety Incident,Low,Minor,93,Residential Area,Morning,Normal,2,High,High
+15,Bagumbayan,Santa Cruz,Laguna,Sitio 5,Road Damage,Urgent,Moderate,41,Highway,Afternoon,Storm,7,High,High
+16,Bagumbayan,Santa Cruz,Laguna,Sitio 7,Streetlight Repair,Normal,Severe,136,Residential Area,Night,Storm,4,High,High
+17,Bagumbayan,Santa Cruz,Laguna,Sitio 4,Flooding,Low,Moderate,88,Highway,Morning,Storm,4,High,High
+18,Bagumbayan,Santa Cruz,Laguna,Sitio 1,Water Leakage,Low,Severe,129,Public Facility,Night,Normal,2,High,High
+19,Bagumbayan,Santa Cruz,Laguna,Sitio 7,Streetlight Repair,Low,Severe,96,Public Facility,Afternoon,Rainy,0,High,High
+20,Bagumbayan,Santa Cruz,Laguna,Sitio 2,Streetlight Repair,Normal,Moderate,29,School Zone,Night,Normal,1,Moderate,High
+21,Bagumbayan,Santa Cruz,Laguna,Sitio 7,Flooding,Low,Severe,125,School Zone,Night,Rainy,2,High,High
+22,Bagumbayan,Santa Cruz,Laguna,Sitio 4,Garbage Collection,Urgent,Severe,68,Public Facility,Night,Storm,3,High,High
+23,Bagumbayan,Santa Cruz,Laguna,Sitio 6,Power Outage,Normal,Severe,80,Highway,Night,Rainy,1,High,High
+24,Bagumbayan,Santa Cruz,Laguna,Sitio 3,Streetlight Repair,Low,Minor,64,Public Facility,Night,Normal,3,High,High
+25,Bagumbayan,Santa Cruz,Laguna,Sitio 6,Streetlight Repair,Low,Severe,2,School Zone,Morning,Normal,5,Low,High
+26,Bagumbayan,Santa Cruz,Laguna,Sitio 3,Public Safety Incident,Urgent,Minor,19,School Zone,Night,Normal,7,Low,High
+27,Bagumbayan,Santa Cruz,Laguna,Sitio 2,Road Damage,Normal,Moderate,63,Residential Area,Night,Rainy,5,High,High
+28,Bagumbayan,Santa Cruz,Laguna,Sitio 7,Streetlight Repair,Normal,Moderate,109,Residential Area,Morning,Rainy,5,High,High
+29,Bagumbayan,Santa Cruz,Laguna,Sitio 2,Public Safety Incident,Low,Minor,28,School Zone,Afternoon,Normal,4,Low,High
+30,Bagumbayan,Santa Cruz,Laguna,Sitio 4,Road Damage,Low,Minor,119,Residential Area,Night,Storm,0,High,High
+31,Bagumbayan,Santa Cruz,Laguna,Sitio 4,Public Safety Incident,Low,Minor,24,Highway,Morning,Rainy,0,Low,Low
+32,Bagumbayan,Santa Cruz,Laguna,Sitio 4,Water Leakage,Normal,Minor,43,Highway,Afternoon,Rainy,7,High,High
+33,Bagumbayan,Santa Cruz,Laguna,Sitio 2,Streetlight Repair,Low,Moderate,40,Public Facility,Night,Storm,0,High,High
+34,Bagumbayan,Santa Cruz,Laguna,Sitio 5,Public Safety Incident,Low,Minor,81,Public Facility,Night,Normal,0,High,High
+35,Bagumbayan,Santa Cruz,Laguna,Sitio 1,Road Damage,Low,Minor,131,School Zone,Afternoon,Normal,3,High,High
+36,Bagumbayan,Santa Cruz,Laguna,Sitio 5,Road Damage,Urgent,Minor,149,Highway,Night,Storm,5,High,High
+37,Bagumbayan,Santa Cruz,Laguna,Sitio 6,Power Outage,Low,Severe,67,School Zone,Afternoon,Rainy,2,High,High
+38,Bagumbayan,Santa Cruz,Laguna,Sitio 7,Road Damage,Normal,Moderate,77,Residential Area,Afternoon,Storm,1,High,High
+39,Bagumbayan,Santa Cruz,Laguna,Sitio 5,Water Leakage,Urgent,Minor,19,School Zone,Afternoon,Normal,3,Low,High
+40,Bagumbayan,Santa Cruz,Laguna,Sitio 4,Water Leakage,Normal,Minor,95,Public Facility,Night,Storm,0,High,High
+41,Bagumbayan,Santa Cruz,Laguna,Sitio 1,Flooding,Normal,Severe,142,Commercial Area,Morning,Normal,2,High,High
+42,Bagumbayan,Santa Cruz,Laguna,Sitio 2,Power Outage,Normal,Severe,70,School Zone,Night,Storm,4,High,High
+43,Bagumbayan,Santa Cruz,Laguna,Sitio 7,Streetlight Repair,Normal,Moderate,130,Residential Area,Night,Rainy,4,High,High
+44,Bagumbayan,Santa Cruz,Laguna,Sitio 7,Flooding,Low,Moderate,12,Commercial Area,Morning,Storm,7,Moderate,High
+45,Bagumbayan,Santa Cruz,Laguna,Sitio 5,Streetlight Repair,Urgent,Moderate,142,Residential Area,Morning,Storm,2,High,High
+46,Bagumbayan,Santa Cruz,Laguna,Sitio 5,Flooding,Low,Moderate,140,Highway,Morning,Normal,4,High,High
+47,Bagumbayan,Santa Cruz,Laguna,Sitio 2,Garbage Collection,Low,Moderate,94,Residential Area,Afternoon,Storm,6,High,High
+48,Bagumbayan,Santa Cruz,Laguna,Sitio 7,Flooding,Low,Minor,40,Highway,Morning,Normal,5,High,High
+49,Bagumbayan,Santa Cruz,Laguna,Sitio 7,Garbage Collection,Urgent,Severe,106,Commercial Area,Morning,Storm,1,High,High
+50,Bagumbayan,Santa Cruz,Laguna,Sitio 2,Garbage Collection,Low,Moderate,98,Highway,Afternoon,Rainy,3,High,High
+51,Bagumbayan,Santa Cruz,Laguna,Sitio 2,Tree Obstruction,Low,Severe,58,Commercial Area,Afternoon,Normal,4,High,High
+52,Bagumbayan,Santa Cruz,Laguna,Sitio 4,Power Outage,Urgent,Severe,90,Residential Area,Morning,Rainy,2,High,High
+53,Bagumbayan,Santa Cruz,Laguna,Sitio 1,Tree Obstruction,Normal,Minor,149,Commercial Area,Night,Rainy,6,High,High
+54,Bagumbayan,Santa Cruz,Laguna,Sitio 5,Garbage Collection,Low,Moderate,131,Commercial Area,Morning,Storm,6,High,High
+55,Bagumbayan,Santa Cruz,Laguna,Sitio 6,Garbage Collection,Urgent,Severe,1,Commercial Area,Afternoon,Normal,5,High,High
+56,Bagumbayan,Santa Cruz,Laguna,Sitio 6,Water Leakage,Urgent,Minor,81,Public Facility,Afternoon,Storm,6,High,High
+57,Bagumbayan,Santa Cruz,Laguna,Sitio 3,Flooding,Normal,Severe,84,School Zone,Afternoon,Storm,6,High,High
+58,Bagumbayan,Santa Cruz,Laguna,Sitio 3,Tree Obstruction,Urgent,Severe,45,Public Facility,Morning,Rainy,4,High,High
+59,Bagumbayan,Santa Cruz,Laguna,Sitio 5,Power Outage,Normal,Severe,54,Highway,Afternoon,Rainy,3,High,High
+60,Bagumbayan,Santa Cruz,Laguna,Sitio 2,Road Damage,Normal,Severe,131,Commercial Area,Night,Storm,5,High,High
+61,Bagumbayan,Santa Cruz,Laguna,Sitio 3,Garbage Collection,Low,Severe,24,School Zone,Morning,Normal,0,Low,High
+62,Bagumbayan,Santa Cruz,Laguna,Sitio 7,Road Damage,Normal,Severe,63,Highway,Afternoon,Storm,3,High,High
+63,Bagumbayan,Santa Cruz,Laguna,Sitio 2,Flooding,Normal,Moderate,99,Residential Area,Morning,Rainy,3,High,High
+64,Bagumbayan,Santa Cruz,Laguna,Sitio 4,Streetlight Repair,Urgent,Severe,46,Public Facility,Morning,Normal,7,High,High
+65,Bagumbayan,Santa Cruz,Laguna,Sitio 5,Power Outage,Normal,Severe,35,Highway,Night,Storm,6,High,High
+66,Bagumbayan,Santa Cruz,Laguna,Sitio 6,Public Safety Incident,Normal,Minor,141,Highway,Afternoon,Normal,4,High,High
+67,Bagumbayan,Santa Cruz,Laguna,Sitio 2,Water Leakage,Normal,Severe,134,Highway,Morning,Storm,4,High,High
+68,Bagumbayan,Santa Cruz,Laguna,Sitio 3,Road Damage,Normal,Moderate,61,School Zone,Morning,Normal,6,High,High
+69,Bagumbayan,Santa Cruz,Laguna,Sitio 1,Tree Obstruction,Urgent,Minor,40,Highway,Afternoon,Storm,7,High,High
+70,Bagumbayan,Santa Cruz,Laguna,Sitio 7,Tree Obstruction,Low,Minor,107,Highway,Night,Storm,0,High,High
+71,Bagumbayan,Santa Cruz,Laguna,Sitio 1,Power Outage,Normal,Moderate,148,Commercial Area,Afternoon,Rainy,3,High,High
+72,Bagumbayan,Santa Cruz,Laguna,Sitio 4,Public Safety Incident,Low,Moderate,125,Residential Area,Afternoon,Rainy,6,High,High
+73,Bagumbayan,Santa Cruz,Laguna,Sitio 5,Streetlight Repair,Normal,Minor,43,Highway,Night,Storm,0,High,High
+74,Bagumbayan,Santa Cruz,Laguna,Sitio 2,Public Safety Incident,Urgent,Moderate,22,School Zone,Morning,Rainy,6,Moderate,High
+75,Bagumbayan,Santa Cruz,Laguna,Sitio 3,Power Outage,Low,Moderate,84,Highway,Afternoon,Rainy,4,High,High
+76,Bagumbayan,Santa Cruz,Laguna,Sitio 6,Streetlight Repair,Normal,Minor,21,Commercial Area,Morning,Storm,1,Moderate,Moderate
+77,Bagumbayan,Santa Cruz,Laguna,Sitio 2,Streetlight Repair,Low,Minor,11,Public Facility,Morning,Normal,2,Low,Low
+78,Bagumbayan,Santa Cruz,Laguna,Sitio 5,Garbage Collection,Urgent,Minor,122,Highway,Night,Rainy,5,High,High
+79,Bagumbayan,Santa Cruz,Laguna,Sitio 6,Road Damage,Urgent,Severe,43,School Zone,Afternoon,Normal,0,High,High
+80,Bagumbayan,Santa Cruz,Laguna,Sitio 4,Tree Obstruction,Urgent,Severe,80,School Zone,Morning,Storm,3,High,High
+81,Bagumbayan,Santa Cruz,Laguna,Sitio 7,Road Damage,Urgent,Moderate,27,Public Facility,Morning,Rainy,6,Moderate,Moderate
+82,Bagumbayan,Santa Cruz,Laguna,Sitio 6,Power Outage,Low,Severe,95,Residential Area,Afternoon,Rainy,1,High,High
+83,Bagumbayan,Santa Cruz,Laguna,Sitio 7,Public Safety Incident,Normal,Severe,111,School Zone,Afternoon,Normal,4,High,High
+84,Bagumbayan,Santa Cruz,Laguna,Sitio 4,Water Leakage,Normal,Moderate,138,Commercial Area,Morning,Normal,4,High,High
+85,Bagumbayan,Santa Cruz,Laguna,Sitio 5,Tree Obstruction,Low,Moderate,116,Commercial Area,Morning,Rainy,5,High,High
+86,Bagumbayan,Santa Cruz,Laguna,Sitio 3,Water Leakage,Normal,Minor,47,Commercial Area,Afternoon,Storm,4,High,High
+87,Bagumbayan,Santa Cruz,Laguna,Sitio 2,Road Damage,Low,Severe,143,School Zone,Night,Rainy,7,High,High
+88,Bagumbayan,Santa Cruz,Laguna,Sitio 4,Public Safety Incident,Low,Severe,143,Highway,Morning,Normal,4,High,High
+89,Bagumbayan,Santa Cruz,Laguna,Sitio 2,Water Leakage,Normal,Severe,57,Public Facility,Afternoon,Rainy,5,High,High
+90,Bagumbayan,Santa Cruz,Laguna,Sitio 3,Power Outage,Urgent,Severe,109,Highway,Afternoon,Rainy,4,High,High
+91,Bagumbayan,Santa Cruz,Laguna,Sitio 2,Power Outage,Low,Severe,60,Residential Area,Night,Storm,2,High,High
+92,Bagumbayan,Santa Cruz,Laguna,Sitio 4,Water Leakage,Low,Severe,50,Public Facility,Night,Storm,4,High,High
+93,Bagumbayan,Santa Cruz,Laguna,Sitio 2,Power Outage,Low,Moderate,26,School Zone,Afternoon,Normal,2,Moderate,High
+94,Bagumbayan,Santa Cruz,Laguna,Sitio 5,Water Leakage,Low,Minor,71,School Zone,Night,Rainy,1,High,High
+95,Bagumbayan,Santa Cruz,Laguna,Sitio 4,Public Safety Incident,Urgent,Moderate,4,Highway,Afternoon,Normal,0,Moderate,Moderate
+96,Bagumbayan,Santa Cruz,Laguna,Sitio 7,Road Damage,Normal,Minor,65,Highway,Afternoon,Normal,0,High,High
+97,Bagumbayan,Santa Cruz,Laguna,Sitio 3,Road Damage,Low,Severe,39,School Zone,Morning,Storm,6,High,High
+98,Bagumbayan,Santa Cruz,Laguna,Sitio 4,Public Safety Incident,Urgent,Moderate,58,Commercial Area,Night,Rainy,4,High,High
+99,Bagumbayan,Santa Cruz,Laguna,Sitio 5,Road Damage,Urgent,Minor,146,School Zone,Night,Normal,4,High,High
+100,Bagumbayan,Santa Cruz,Laguna,Sitio 2,Road Damage,Low,Minor,21,School Zone,Morning,Rainy,7,Low,High
+101,Bagumbayan,Santa Cruz,Laguna,Sitio 2,Water Leakage,Normal,Minor,121,Commercial Area,Night,Rainy,1,High,High
+102,Bagumbayan,Santa Cruz,Laguna,Sitio 5,Garbage Collection,Normal,Severe,60,Highway,Morning,Storm,3,High,High
+103,Bagumbayan,Santa Cruz,Laguna,Sitio 1,Streetlight Repair,Normal,Minor,39,School Zone,Afternoon,Storm,4,High,High
+104,Bagumbayan,Santa Cruz,Laguna,Sitio 6,Water Leakage,Low,Moderate,113,Highway,Afternoon,Storm,7,High,High
+105,Bagumbayan,Santa Cruz,Laguna,Sitio 1,Tree Obstruction,Low,Severe,113,Commercial Area,Night,Rainy,0,High,High
+106,Bagumbayan,Santa Cruz,Laguna,Sitio 7,Streetlight Repair,Low,Severe,24,Commercial Area,Night,Normal,2,Low,High
+107,Bagumbayan,Santa Cruz,Laguna,Sitio 4,Water Leakage,Urgent,Severe,121,School Zone,Night,Rainy,7,High,High
+108,Bagumbayan,Santa Cruz,Laguna,Sitio 4,Power Outage,Normal,Moderate,24,Commercial Area,Night,Normal,2,Moderate,Moderate
+109,Bagumbayan,Santa Cruz,Laguna,Sitio 4,Water Leakage,Normal,Severe,85,Highway,Night,Normal,7,High,High
+110,Bagumbayan,Santa Cruz,Laguna,Sitio 3,Road Damage,Normal,Moderate,23,Highway,Night,Normal,7,Moderate,Moderate
+111,Bagumbayan,Santa Cruz,Laguna,Sitio 5,Power Outage,Low,Minor,106,Public Facility,Afternoon,Storm,7,High,High
+112,Bagumbayan,Santa Cruz,Laguna,Sitio 5,Flooding,Low,Moderate,14,Commercial Area,Afternoon,Storm,7,Moderate,High
+113,Bagumbayan,Santa Cruz,Laguna,Sitio 5,Garbage Collection,Low,Severe,32,School Zone,Afternoon,Storm,0,High,High
+114,Bagumbayan,Santa Cruz,Laguna,Sitio 2,Road Damage,Normal,Minor,142,Highway,Morning,Storm,2,High,High
+115,Bagumbayan,Santa Cruz,Laguna,Sitio 5,Water Leakage,Urgent,Moderate,128,Highway,Afternoon,Rainy,3,High,High
+116,Bagumbayan,Santa Cruz,Laguna,Sitio 4,Garbage Collection,Urgent,Minor,117,Public Facility,Night,Storm,2,High,High
+117,Bagumbayan,Santa Cruz,Laguna,Sitio 3,Water Leakage,Normal,Moderate,18,Residential Area,Afternoon,Storm,4,Moderate,Moderate
+118,Bagumbayan,Santa Cruz,Laguna,Sitio 7,Flooding,Urgent,Moderate,149,Highway,Night,Rainy,5,High,High
+119,Bagumbayan,Santa Cruz,Laguna,Sitio 4,Public Safety Incident,Urgent,Severe,86,Commercial Area,Morning,Storm,3,High,High
+120,Bagumbayan,Santa Cruz,Laguna,Sitio 7,Tree Obstruction,Normal,Minor,147,Residential Area,Afternoon,Storm,7,High,High
+121,Bagumbayan,Santa Cruz,Laguna,Sitio 7,Flooding,Normal,Severe,98,Highway,Morning,Normal,5,High,High
+122,Bagumbayan,Santa Cruz,Laguna,Sitio 5,Public Safety Incident,Normal,Minor,26,Residential Area,Night,Normal,6,Moderate,Moderate
+123,Bagumbayan,Santa Cruz,Laguna,Sitio 7,Water Leakage,Low,Moderate,40,Commercial Area,Night,Storm,6,High,High
+124,Bagumbayan,Santa Cruz,Laguna,Sitio 7,Tree Obstruction,Normal,Severe,21,Commercial Area,Night,Storm,7,Moderate,Moderate
+125,Bagumbayan,Santa Cruz,Laguna,Sitio 1,Garbage Collection,Low,Severe,139,Commercial Area,Morning,Storm,1,High,High
+126,Bagumbayan,Santa Cruz,Laguna,Sitio 6,Road Damage,Low,Severe,112,Highway,Morning,Storm,4,High,High
+127,Bagumbayan,Santa Cruz,Laguna,Sitio 7,Streetlight Repair,Low,Moderate,8,Commercial Area,Afternoon,Rainy,6,Moderate,Moderate
+128,Bagumbayan,Santa Cruz,Laguna,Sitio 4,Flooding,Low,Severe,38,School Zone,Morning,Normal,6,High,High
+129,Bagumbayan,Santa Cruz,Laguna,Sitio 2,Garbage Collection,Normal,Severe,62,Highway,Night,Rainy,7,High,High
+130,Bagumbayan,Santa Cruz,Laguna,Sitio 7,Public Safety Incident,Urgent,Minor,66,Commercial Area,Night,Storm,2,High,High
+131,Bagumbayan,Santa Cruz,Laguna,Sitio 5,Water Leakage,Normal,Moderate,19,Highway,Night,Rainy,7,Moderate,Moderate
+132,Bagumbayan,Santa Cruz,Laguna,Sitio 7,Public Safety Incident,Low,Moderate,78,Residential Area,Morning,Rainy,5,High,High
+133,Bagumbayan,Santa Cruz,Laguna,Sitio 3,Streetlight Repair,Normal,Severe,148,Highway,Afternoon,Normal,0,High,High
+134,Bagumbayan,Santa Cruz,Laguna,Sitio 5,Power Outage,Normal,Minor,128,School Zone,Night,Normal,4,High,High
+135,Bagumbayan,Santa Cruz,Laguna,Sitio 6,Streetlight Repair,Urgent,Minor,36,Commercial Area,Afternoon,Normal,5,High,High
+136,Bagumbayan,Santa Cruz,Laguna,Sitio 3,Tree Obstruction,Low,Moderate,34,School Zone,Morning,Normal,5,High,High
+137,Bagumbayan,Santa Cruz,Laguna,Sitio 7,Flooding,Urgent,Moderate,136,Commercial Area,Afternoon,Rainy,5,High,High
+138,Bagumbayan,Santa Cruz,Laguna,Sitio 2,Garbage Collection,Normal,Minor,30,Highway,Night,Rainy,1,Moderate,Moderate
+139,Bagumbayan,Santa Cruz,Laguna,Sitio 5,Road Damage,Low,Moderate,102,Highway,Afternoon,Storm,4,High,High
+140,Bagumbayan,Santa Cruz,Laguna,Sitio 3,Road Damage,Normal,Severe,150,School Zone,Afternoon,Normal,5,High,High
+141,Bagumbayan,Santa Cruz,Laguna,Sitio 6,Public Safety Incident,Urgent,Minor,57,Commercial Area,Night,Rainy,1,High,High
+142,Bagumbayan,Santa Cruz,Laguna,Sitio 3,Public Safety Incident,Low,Minor,36,Residential Area,Morning,Normal,2,High,High
+143,Bagumbayan,Santa Cruz,Laguna,Sitio 6,Tree Obstruction,Normal,Moderate,100,Public Facility,Night,Storm,2,High,High
+144,Bagumbayan,Santa Cruz,Laguna,Sitio 7,Public Safety Incident,Urgent,Minor,107,Public Facility,Afternoon,Rainy,0,High,High
+145,Bagumbayan,Santa Cruz,Laguna,Sitio 4,Garbage Collection,Low,Moderate,95,Commercial Area,Morning,Storm,5,High,High
+146,Bagumbayan,Santa Cruz,Laguna,Sitio 1,Tree Obstruction,Urgent,Moderate,140,Commercial Area,Morning,Normal,7,High,High
+147,Bagumbayan,Santa Cruz,Laguna,Sitio 6,Streetlight Repair,Urgent,Minor,24,Residential Area,Afternoon,Normal,2,Low,Low
+148,Bagumbayan,Santa Cruz,Laguna,Sitio 7,Garbage Collection,Low,Minor,145,Public Facility,Morning,Normal,5,High,High
+149,Bagumbayan,Santa Cruz,Laguna,Sitio 3,Flooding,Urgent,Minor,38,School Zone,Night,Rainy,2,High,High
+150,Bagumbayan,Santa Cruz,Laguna,Sitio 2,Streetlight Repair,Urgent,Minor,29,Commercial Area,Morning,Storm,5,Low,Low
+151,Bagumbayan,Santa Cruz,Laguna,Sitio 1,Flooding,Low,Moderate,5,Highway,Night,Normal,1,Moderate,Moderate
+152,Bagumbayan,Santa Cruz,Laguna,Sitio 5,Road Damage,Normal,Moderate,122,Highway,Night,Normal,0,High,High
+153,Bagumbayan,Santa Cruz,Laguna,Sitio 6,Streetlight Repair,Normal,Moderate,134,Residential Area,Afternoon,Rainy,6,High,High
+154,Bagumbayan,Santa Cruz,Laguna,Sitio 4,Road Damage,Normal,Severe,28,Residential Area,Afternoon,Storm,2,Moderate,Moderate
+155,Bagumbayan,Santa Cruz,Laguna,Sitio 5,Power Outage,Low,Moderate,17,Highway,Night,Storm,4,Moderate,Moderate
+156,Bagumbayan,Santa Cruz,Laguna,Sitio 4,Road Damage,Urgent,Severe,117,Residential Area,Night,Storm,3,High,High
+157,Bagumbayan,Santa Cruz,Laguna,Sitio 4,Power Outage,Normal,Minor,111,Highway,Afternoon,Rainy,1,High,High
+158,Bagumbayan,Santa Cruz,Laguna,Sitio 6,Water Leakage,Normal,Moderate,81,Commercial Area,Morning,Storm,7,High,High
+159,Bagumbayan,Santa Cruz,Laguna,Sitio 1,Tree Obstruction,Low,Minor,18,Residential Area,Night,Storm,5,Low,Low
+160,Bagumbayan,Santa Cruz,Laguna,Sitio 5,Power Outage,Urgent,Minor,34,Residential Area,Afternoon,Rainy,6,High,High
+161,Bagumbayan,Santa Cruz,Laguna,Sitio 3,Power Outage,Normal,Severe,14,Residential Area,Night,Storm,3,Moderate,Moderate
+162,Bagumbayan,Santa Cruz,Laguna,Sitio 2,Road Damage,Urgent,Moderate,40,Commercial Area,Night,Rainy,1,High,High
+163,Bagumbayan,Santa Cruz,Laguna,Sitio 7,Tree Obstruction,Urgent,Minor,72,Public Facility,Night,Storm,0,High,High
+164,Bagumbayan,Santa Cruz,Laguna,Sitio 3,Water Leakage,Low,Minor,69,Commercial Area,Afternoon,Normal,2,High,High
+165,Bagumbayan,Santa Cruz,Laguna,Sitio 4,Road Damage,Urgent,Severe,37,School Zone,Night,Storm,0,High,High
+166,Bagumbayan,Santa Cruz,Laguna,Sitio 2,Tree Obstruction,Urgent,Severe,24,Highway,Afternoon,Rainy,2,High,High
+167,Bagumbayan,Santa Cruz,Laguna,Sitio 3,Road Damage,Normal,Severe,95,Residential Area,Morning,Normal,0,High,High
+168,Bagumbayan,Santa Cruz,Laguna,Sitio 6,Tree Obstruction,Normal,Moderate,21,Highway,Night,Rainy,6,Moderate,Moderate
+169,Bagumbayan,Santa Cruz,Laguna,Sitio 1,Power Outage,Low,Severe,70,Highway,Morning,Rainy,7,High,High
+170,Bagumbayan,Santa Cruz,Laguna,Sitio 1,Garbage Collection,Urgent,Moderate,135,Highway,Night,Normal,0,High,High
+171,Bagumbayan,Santa Cruz,Laguna,Sitio 7,Flooding,Normal,Minor,53,Commercial Area,Afternoon,Rainy,1,High,High
+172,Bagumbayan,Santa Cruz,Laguna,Sitio 4,Flooding,Normal,Severe,2,School Zone,Afternoon,Storm,3,Moderate,High
+173,Bagumbayan,Santa Cruz,Laguna,Sitio 7,Power Outage,Urgent,Severe,129,Residential Area,Afternoon,Storm,0,High,High
+174,Bagumbayan,Santa Cruz,Laguna,Sitio 1,Power Outage,Low,Moderate,112,Public Facility,Afternoon,Storm,6,High,High
+175,Bagumbayan,Santa Cruz,Laguna,Sitio 4,Streetlight Repair,Normal,Minor,107,Commercial Area,Morning,Storm,7,High,High
+176,Bagumbayan,Santa Cruz,Laguna,Sitio 7,Road Damage,Low,Moderate,93,School Zone,Afternoon,Storm,6,High,High
+177,Bagumbayan,Santa Cruz,Laguna,Sitio 7,Water Leakage,Low,Moderate,135,Commercial Area,Morning,Rainy,2,High,High
+178,Bagumbayan,Santa Cruz,Laguna,Sitio 1,Garbage Collection,Urgent,Severe,20,Commercial Area,Afternoon,Storm,2,High,High
+179,Bagumbayan,Santa Cruz,Laguna,Sitio 3,Garbage Collection,Low,Minor,61,School Zone,Night,Normal,1,High,High
+180,Bagumbayan,Santa Cruz,Laguna,Sitio 4,Public Safety Incident,Urgent,Moderate,46,Public Facility,Night,Storm,5,High,High
+181,Bagumbayan,Santa Cruz,Laguna,Sitio 1,Public Safety Incident,Low,Moderate,81,Highway,Night,Rainy,4,High,High
+182,Bagumbayan,Santa Cruz,Laguna,Sitio 1,Water Leakage,Normal,Severe,15,Highway,Afternoon,Normal,0,Moderate,Moderate
+183,Bagumbayan,Santa Cruz,Laguna,Sitio 6,Road Damage,Normal,Minor,95,Public Facility,Night,Storm,6,High,High
+184,Bagumbayan,Santa Cruz,Laguna,Sitio 7,Streetlight Repair,Urgent,Severe,119,Highway,Night,Storm,3,High,High
+185,Bagumbayan,Santa Cruz,Laguna,Sitio 5,Flooding,Urgent,Moderate,83,Residential Area,Afternoon,Normal,5,High,High
+186,Bagumbayan,Santa Cruz,Laguna,Sitio 2,Streetlight Repair,Urgent,Severe,22,School Zone,Night,Rainy,7,High,High
+187,Bagumbayan,Santa Cruz,Laguna,Sitio 2,Power Outage,Urgent,Severe,135,Commercial Area,Afternoon,Rainy,6,High,High
+188,Bagumbayan,Santa Cruz,Laguna,Sitio 1,Power Outage,Urgent,Severe,87,Residential Area,Afternoon,Normal,6,High,High
+189,Bagumbayan,Santa Cruz,Laguna,Sitio 7,Flooding,Normal,Severe,73,Commercial Area,Morning,Storm,2,High,High
+190,Bagumbayan,Santa Cruz,Laguna,Sitio 6,Tree Obstruction,Normal,Severe,90,School Zone,Night,Storm,1,High,High
+191,Bagumbayan,Santa Cruz,Laguna,Sitio 6,Power Outage,Urgent,Moderate,80,School Zone,Night,Storm,1,High,High
+192,Bagumbayan,Santa Cruz,Laguna,Sitio 1,Power Outage,Urgent,Moderate,109,Commercial Area,Morning,Normal,5,High,High
+193,Bagumbayan,Santa Cruz,Laguna,Sitio 2,Flooding,Low,Minor,125,Residential Area,Afternoon,Normal,0,High,High
+194,Bagumbayan,Santa Cruz,Laguna,Sitio 5,Tree Obstruction,Urgent,Minor,87,School Zone,Morning,Normal,2,High,High
+195,Bagumbayan,Santa Cruz,Laguna,Sitio 3,Garbage Collection,Low,Moderate,113,Highway,Night,Rainy,7,High,High
+196,Bagumbayan,Santa Cruz,Laguna,Sitio 3,Public Safety Incident,Urgent,Minor,60,School Zone,Afternoon,Storm,7,High,High
+197,Bagumbayan,Santa Cruz,Laguna,Sitio 5,Tree Obstruction,Normal,Moderate,119,School Zone,Morning,Storm,2,High,High
+198,Bagumbayan,Santa Cruz,Laguna,Sitio 4,Power Outage,Low,Severe,65,Public Facility,Morning,Storm,1,High,High
+199,Bagumbayan,Santa Cruz,Laguna,Sitio 3,Public Safety Incident,Low,Minor,73,Public Facility,Morning,Rainy,1,High,High
+200,Bagumbayan,Santa Cruz,Laguna,Sitio 1,Tree Obstruction,Normal,Moderate,57,Residential Area,Afternoon,Storm,5,High,High
+201,Bagumbayan,Santa Cruz,Laguna,Sitio 3,Garbage Collection,Normal,Minor,61,Residential Area,Afternoon,Normal,5,High,High
+202,Bagumbayan,Santa Cruz,Laguna,Sitio 3,Public Safety Incident,Low,Minor,38,School Zone,Night,Rainy,7,High,High
+203,Bagumbayan,Santa Cruz,Laguna,Sitio 3,Garbage Collection,Low,Minor,2,School Zone,Night,Storm,6,Low,High
+204,Bagumbayan,Santa Cruz,Laguna,Sitio 3,Road Damage,Normal,Minor,29,Residential Area,Morning,Rainy,7,Moderate,Moderate
+205,Bagumbayan,Santa Cruz,Laguna,Sitio 5,Streetlight Repair,Low,Moderate,17,Public Facility,Night,Normal,2,Moderate,High
+206,Bagumbayan,Santa Cruz,Laguna,Sitio 5,Power Outage,Normal,Minor,75,School Zone,Night,Rainy,2,High,High
+207,Bagumbayan,Santa Cruz,Laguna,Sitio 1,Streetlight Repair,Urgent,Moderate,22,Highway,Afternoon,Normal,6,Moderate,Moderate
+208,Bagumbayan,Santa Cruz,Laguna,Sitio 1,Power Outage,Normal,Severe,96,Residential Area,Afternoon,Normal,1,High,High
+209,Bagumbayan,Santa Cruz,Laguna,Sitio 2,Streetlight Repair,Urgent,Moderate,149,Commercial Area,Night,Rainy,2,High,High
+210,Bagumbayan,Santa Cruz,Laguna,Sitio 6,Flooding,Urgent,Moderate,119,School Zone,Morning,Storm,7,High,High
+211,Bagumbayan,Santa Cruz,Laguna,Sitio 1,Garbage Collection,Normal,Minor,10,Residential Area,Afternoon,Rainy,6,Moderate,Moderate
+212,Bagumbayan,Santa Cruz,Laguna,Sitio 1,Garbage Collection,Normal,Moderate,140,Commercial Area,Afternoon,Normal,5,High,High
+213,Bagumbayan,Santa Cruz,Laguna,Sitio 4,Tree Obstruction,Low,Moderate,70,Highway,Afternoon,Rainy,2,High,High
+214,Bagumbayan,Santa Cruz,Laguna,Sitio 3,Water Leakage,Urgent,Moderate,128,Residential Area,Night,Rainy,1,High,High
+215,Bagumbayan,Santa Cruz,Laguna,Sitio 5,Water Leakage,Urgent,Minor,111,Commercial Area,Morning,Normal,5,High,High
+216,Bagumbayan,Santa Cruz,Laguna,Sitio 5,Tree Obstruction,Normal,Moderate,76,School Zone,Night,Rainy,5,High,High
+217,Bagumbayan,Santa Cruz,Laguna,Sitio 7,Power Outage,Low,Severe,115,Public Facility,Afternoon,Rainy,0,High,High
+218,Bagumbayan,Santa Cruz,Laguna,Sitio 4,Power Outage,Urgent,Severe,20,Public Facility,Night,Storm,2,High,High
+219,Bagumbayan,Santa Cruz,Laguna,Sitio 6,Public Safety Incident,Low,Severe,8,Residential Area,Morning,Normal,3,Low,Low
+220,Bagumbayan,Santa Cruz,Laguna,Sitio 5,Streetlight Repair,Normal,Moderate,94,Public Facility,Morning,Storm,7,High,High
+221,Bagumbayan,Santa Cruz,Laguna,Sitio 7,Road Damage,Normal,Moderate,95,Public Facility,Morning,Storm,5,High,High
+222,Bagumbayan,Santa Cruz,Laguna,Sitio 3,Garbage Collection,Normal,Severe,102,Residential Area,Morning,Storm,2,High,High
+223,Bagumbayan,Santa Cruz,Laguna,Sitio 5,Road Damage,Urgent,Moderate,128,Commercial Area,Afternoon,Storm,7,High,High
+224,Bagumbayan,Santa Cruz,Laguna,Sitio 6,Public Safety Incident,Urgent,Moderate,55,School Zone,Morning,Normal,1,High,High
+225,Bagumbayan,Santa Cruz,Laguna,Sitio 4,Road Damage,Low,Severe,116,Commercial Area,Night,Rainy,1,High,High
+226,Bagumbayan,Santa Cruz,Laguna,Sitio 3,Flooding,Urgent,Moderate,141,School Zone,Afternoon,Storm,3,High,High
+227,Bagumbayan,Santa Cruz,Laguna,Sitio 2,Public Safety Incident,Low,Minor,32,Residential Area,Afternoon,Storm,5,High,High
+228,Bagumbayan,Santa Cruz,Laguna,Sitio 5,Road Damage,Urgent,Minor,120,Residential Area,Afternoon,Rainy,7,High,High
+229,Bagumbayan,Santa Cruz,Laguna,Sitio 7,Road Damage,Normal,Moderate,135,School Zone,Afternoon,Storm,1,High,High
+230,Bagumbayan,Santa Cruz,Laguna,Sitio 5,Power Outage,Normal,Severe,116,School Zone,Night,Storm,2,High,High
+231,Bagumbayan,Santa Cruz,Laguna,Sitio 7,Streetlight Repair,Normal,Severe,34,Residential Area,Night,Normal,4,High,High
+232,Bagumbayan,Santa Cruz,Laguna,Sitio 6,Garbage Collection,Low,Moderate,43,Commercial Area,Night,Rainy,1,High,High
+233,Bagumbayan,Santa Cruz,Laguna,Sitio 5,Water Leakage,Low,Severe,65,School Zone,Night,Rainy,1,High,High
+234,Bagumbayan,Santa Cruz,Laguna,Sitio 5,Flooding,Urgent,Minor,129,School Zone,Night,Storm,5,High,High
+235,Bagumbayan,Santa Cruz,Laguna,Sitio 1,Streetlight Repair,Low,Minor,145,Public Facility,Afternoon,Storm,3,High,High
+236,Bagumbayan,Santa Cruz,Laguna,Sitio 6,Streetlight Repair,Normal,Severe,147,Highway,Night,Storm,4,High,High
+237,Bagumbayan,Santa Cruz,Laguna,Sitio 7,Tree Obstruction,Normal,Minor,78,Commercial Area,Afternoon,Normal,0,High,High
+238,Bagumbayan,Santa Cruz,Laguna,Sitio 4,Public Safety Incident,Normal,Moderate,41,School Zone,Afternoon,Storm,2,High,High
+239,Bagumbayan,Santa Cruz,Laguna,Sitio 6,Power Outage,Urgent,Moderate,81,Highway,Morning,Rainy,1,High,High
+240,Bagumbayan,Santa Cruz,Laguna,Sitio 1,Water Leakage,Low,Moderate,82,Highway,Morning,Normal,1,High,High
+241,Bagumbayan,Santa Cruz,Laguna,Sitio 7,Tree Obstruction,Normal,Moderate,13,School Zone,Morning,Rainy,5,Moderate,High
+242,Bagumbayan,Santa Cruz,Laguna,Sitio 5,Public Safety Incident,Low,Moderate,49,Highway,Afternoon,Rainy,0,High,High
+243,Bagumbayan,Santa Cruz,Laguna,Sitio 4,Garbage Collection,Normal,Severe,24,School Zone,Night,Rainy,0,Moderate,High
+244,Bagumbayan,Santa Cruz,Laguna,Sitio 5,Public Safety Incident,Normal,Moderate,13,Commercial Area,Night,Normal,1,Moderate,Moderate
+245,Bagumbayan,Santa Cruz,Laguna,Sitio 6,Power Outage,Low,Moderate,111,Highway,Afternoon,Normal,6,High,High
+246,Bagumbayan,Santa Cruz,Laguna,Sitio 2,Power Outage,Urgent,Severe,14,Public Facility,Afternoon,Normal,6,High,High
+247,Bagumbayan,Santa Cruz,Laguna,Sitio 3,Road Damage,Normal,Severe,130,School Zone,Morning,Rainy,5,High,High
+248,Bagumbayan,Santa Cruz,Laguna,Sitio 7,Flooding,Urgent,Moderate,87,School Zone,Night,Storm,6,High,High
+249,Bagumbayan,Santa Cruz,Laguna,Sitio 1,Flooding,Low,Minor,129,Commercial Area,Afternoon,Storm,7,High,High
+250,Bagumbayan,Santa Cruz,Laguna,Sitio 2,Power Outage,Urgent,Severe,39,Public Facility,Afternoon,Normal,6,High,High
+251,Bagumbayan,Santa Cruz,Laguna,Sitio 5,Public Safety Incident,Urgent,Moderate,77,Public Facility,Afternoon,Rainy,0,High,High
+252,Bagumbayan,Santa Cruz,Laguna,Sitio 1,Tree Obstruction,Normal,Severe,95,Public Facility,Afternoon,Storm,0,High,High
+253,Bagumbayan,Santa Cruz,Laguna,Sitio 7,Garbage Collection,Normal,Severe,122,Residential Area,Night,Rainy,2,High,High
+254,Bagumbayan,Santa Cruz,Laguna,Sitio 5,Tree Obstruction,Urgent,Severe,135,School Zone,Night,Normal,0,High,High
+255,Bagumbayan,Santa Cruz,Laguna,Sitio 2,Streetlight Repair,Urgent,Minor,147,Highway,Afternoon,Rainy,2,High,High
+256,Bagumbayan,Santa Cruz,Laguna,Sitio 4,Public Safety Incident,Urgent,Minor,106,Residential Area,Night,Normal,3,High,High
+257,Bagumbayan,Santa Cruz,Laguna,Sitio 4,Tree Obstruction,Normal,Severe,144,Commercial Area,Morning,Rainy,5,High,High
+258,Bagumbayan,Santa Cruz,Laguna,Sitio 7,Water Leakage,Normal,Severe,140,Public Facility,Afternoon,Normal,3,High,High
+259,Bagumbayan,Santa Cruz,Laguna,Sitio 2,Water Leakage,Urgent,Moderate,72,Commercial Area,Night,Normal,7,High,High
+260,Bagumbayan,Santa Cruz,Laguna,Sitio 5,Water Leakage,Normal,Moderate,82,Commercial Area,Morning,Storm,6,High,High
+261,Bagumbayan,Santa Cruz,Laguna,Sitio 3,Streetlight Repair,Normal,Minor,102,Commercial Area,Night,Normal,5,High,High
+262,Bagumbayan,Santa Cruz,Laguna,Sitio 6,Public Safety Incident,Urgent,Moderate,114,School Zone,Morning,Storm,4,High,High
+263,Bagumbayan,Santa Cruz,Laguna,Sitio 2,Road Damage,Urgent,Moderate,144,Public Facility,Night,Storm,3,High,High
+264,Bagumbayan,Santa Cruz,Laguna,Sitio 5,Garbage Collection,Low,Severe,63,School Zone,Morning,Normal,6,High,High
+265,Bagumbayan,Santa Cruz,Laguna,Sitio 1,Flooding,Urgent,Moderate,85,Residential Area,Night,Normal,6,High,High
+266,Bagumbayan,Santa Cruz,Laguna,Sitio 2,Water Leakage,Normal,Severe,122,Commercial Area,Afternoon,Storm,0,High,High
+267,Bagumbayan,Santa Cruz,Laguna,Sitio 2,Streetlight Repair,Urgent,Severe,23,School Zone,Afternoon,Normal,0,High,High
+268,Bagumbayan,Santa Cruz,Laguna,Sitio 6,Water Leakage,Normal,Minor,102,Residential Area,Morning,Rainy,1,High,High
+269,Bagumbayan,Santa Cruz,Laguna,Sitio 6,Public Safety Incident,Normal,Moderate,86,School Zone,Night,Rainy,4,High,High
+270,Bagumbayan,Santa Cruz,Laguna,Sitio 2,Public Safety Incident,Low,Moderate,50,Commercial Area,Night,Normal,0,High,High
+271,Bagumbayan,Santa Cruz,Laguna,Sitio 6,Garbage Collection,Normal,Severe,87,School Zone,Night,Storm,6,High,High
+272,Bagumbayan,Santa Cruz,Laguna,Sitio 1,Tree Obstruction,Urgent,Moderate,110,Residential Area,Morning,Normal,7,High,High
+273,Bagumbayan,Santa Cruz,Laguna,Sitio 3,Tree Obstruction,Low,Minor,83,School Zone,Afternoon,Rainy,5,High,High
+274,Bagumbayan,Santa Cruz,Laguna,Sitio 5,Streetlight Repair,Urgent,Severe,78,Commercial Area,Night,Rainy,3,High,High
+275,Bagumbayan,Santa Cruz,Laguna,Sitio 4,Water Leakage,Urgent,Minor,16,School Zone,Afternoon,Storm,4,Low,High
+276,Bagumbayan,Santa Cruz,Laguna,Sitio 3,Garbage Collection,Urgent,Moderate,31,School Zone,Morning,Rainy,2,High,High
+277,Bagumbayan,Santa Cruz,Laguna,Sitio 3,Tree Obstruction,Urgent,Severe,117,Public Facility,Afternoon,Storm,3,High,High
+278,Bagumbayan,Santa Cruz,Laguna,Sitio 7,Road Damage,Urgent,Severe,64,Public Facility,Afternoon,Storm,5,High,High
+279,Bagumbayan,Santa Cruz,Laguna,Sitio 1,Garbage Collection,Urgent,Minor,20,Public Facility,Night,Normal,2,Low,Low
+280,Bagumbayan,Santa Cruz,Laguna,Sitio 1,Garbage Collection,Urgent,Moderate,84,Public Facility,Afternoon,Normal,7,High,High
+281,Bagumbayan,Santa Cruz,Laguna,Sitio 5,Tree Obstruction,Normal,Minor,15,Highway,Night,Normal,7,Moderate,Moderate
+282,Bagumbayan,Santa Cruz,Laguna,Sitio 4,Water Leakage,Urgent,Minor,79,Residential Area,Night,Normal,1,High,High
+283,Bagumbayan,Santa Cruz,Laguna,Sitio 6,Road Damage,Normal,Moderate,12,Public Facility,Morning,Normal,7,Moderate,Moderate
+284,Bagumbayan,Santa Cruz,Laguna,Sitio 2,Flooding,Normal,Moderate,9,Highway,Afternoon,Rainy,7,Moderate,Moderate
+285,Bagumbayan,Santa Cruz,Laguna,Sitio 6,Flooding,Normal,Minor,97,Commercial Area,Morning,Normal,6,High,High
+286,Bagumbayan,Santa Cruz,Laguna,Sitio 2,Streetlight Repair,Low,Severe,136,Residential Area,Afternoon,Rainy,6,High,High
+287,Bagumbayan,Santa Cruz,Laguna,Sitio 2,Public Safety Incident,Normal,Minor,137,Commercial Area,Morning,Rainy,3,High,High
+288,Bagumbayan,Santa Cruz,Laguna,Sitio 4,Streetlight Repair,Low,Severe,29,School Zone,Morning,Normal,1,Low,High
+289,Bagumbayan,Santa Cruz,Laguna,Sitio 6,Streetlight Repair,Normal,Severe,9,School Zone,Night,Normal,6,Moderate,High
+290,Bagumbayan,Santa Cruz,Laguna,Sitio 2,Streetlight Repair,Low,Severe,113,School Zone,Night,Rainy,3,High,High
+291,Bagumbayan,Santa Cruz,Laguna,Sitio 5,Power Outage,Normal,Severe,148,School Zone,Afternoon,Normal,3,High,High
+292,Bagumbayan,Santa Cruz,Laguna,Sitio 1,Flooding,Normal,Moderate,106,Highway,Night,Rainy,0,High,High
+293,Bagumbayan,Santa Cruz,Laguna,Sitio 4,Power Outage,Urgent,Severe,89,Highway,Afternoon,Normal,4,High,High
+294,Bagumbayan,Santa Cruz,Laguna,Sitio 4,Garbage Collection,Low,Severe,97,School Zone,Afternoon,Storm,2,High,High
+295,Bagumbayan,Santa Cruz,Laguna,Sitio 4,Tree Obstruction,Low,Severe,119,Public Facility,Night,Normal,6,High,High
+296,Bagumbayan,Santa Cruz,Laguna,Sitio 3,Road Damage,Normal,Minor,63,Highway,Afternoon,Normal,3,High,High
+297,Bagumbayan,Santa Cruz,Laguna,Sitio 6,Streetlight Repair,Normal,Moderate,14,Residential Area,Morning,Storm,3,Moderate,Moderate
+298,Bagumbayan,Santa Cruz,Laguna,Sitio 3,Streetlight Repair,Low,Moderate,123,School Zone,Morning,Storm,1,High,High
+299,Bagumbayan,Santa Cruz,Laguna,Sitio 5,Garbage Collection,Low,Severe,123,Highway,Morning,Storm,5,High,High
+300,Bagumbayan,Santa Cruz,Laguna,Sitio 5,Power Outage,Normal,Moderate,73,Commercial Area,Afternoon,Rainy,7,High,High
+301,Bagumbayan,Santa Cruz,Laguna,Sitio 4,Power Outage,Low,Severe,120,School Zone,Afternoon,Rainy,6,High,High
+302,Bagumbayan,Santa Cruz,Laguna,Sitio 6,Flooding,Urgent,Minor,12,Residential Area,Afternoon,Storm,6,Low,High
+303,Bagumbayan,Santa Cruz,Laguna,Sitio 3,Garbage Collection,Low,Minor,76,Highway,Night,Normal,7,High,High
+304,Bagumbayan,Santa Cruz,Laguna,Sitio 3,Water Leakage,Urgent,Severe,141,Highway,Night,Storm,7,High,High
+305,Bagumbayan,Santa Cruz,Laguna,Sitio 7,Power Outage,Low,Severe,118,School Zone,Morning,Storm,7,High,High
+306,Bagumbayan,Santa Cruz,Laguna,Sitio 1,Streetlight Repair,Urgent,Severe,48,Residential Area,Night,Normal,0,High,High
+307,Bagumbayan,Santa Cruz,Laguna,Sitio 2,Road Damage,Low,Severe,106,School Zone,Morning,Normal,7,High,High
+308,Bagumbayan,Santa Cruz,Laguna,Sitio 6,Public Safety Incident,Low,Severe,96,Highway,Morning,Normal,6,High,High
+309,Bagumbayan,Santa Cruz,Laguna,Sitio 6,Water Leakage,Low,Severe,4,Public Facility,Afternoon,Normal,6,Low,Low
+310,Bagumbayan,Santa Cruz,Laguna,Sitio 5,Flooding,Low,Minor,46,School Zone,Morning,Storm,4,High,High
+311,Bagumbayan,Santa Cruz,Laguna,Sitio 1,Power Outage,Normal,Moderate,91,Highway,Afternoon,Storm,3,High,High
+312,Bagumbayan,Santa Cruz,Laguna,Sitio 7,Road Damage,Normal,Severe,58,Residential Area,Morning,Rainy,6,High,High
+313,Bagumbayan,Santa Cruz,Laguna,Sitio 1,Streetlight Repair,Urgent,Moderate,97,School Zone,Morning,Rainy,6,High,High
+314,Bagumbayan,Santa Cruz,Laguna,Sitio 5,Streetlight Repair,Urgent,Minor,85,School Zone,Morning,Storm,7,High,High
+315,Bagumbayan,Santa Cruz,Laguna,Sitio 6,Water Leakage,Low,Minor,70,Public Facility,Night,Storm,0,High,High
+316,Bagumbayan,Santa Cruz,Laguna,Sitio 2,Flooding,Normal,Minor,46,Highway,Morning,Rainy,2,High,High
+317,Bagumbayan,Santa Cruz,Laguna,Sitio 7,Tree Obstruction,Low,Severe,145,Public Facility,Afternoon,Rainy,2,High,High
+318,Bagumbayan,Santa Cruz,Laguna,Sitio 3,Streetlight Repair,Urgent,Severe,21,Residential Area,Afternoon,Normal,1,High,High
+319,Bagumbayan,Santa Cruz,Laguna,Sitio 5,Tree Obstruction,Urgent,Severe,88,Commercial Area,Morning,Storm,4,High,High
+320,Bagumbayan,Santa Cruz,Laguna,Sitio 3,Tree Obstruction,Normal,Minor,116,Highway,Morning,Storm,6,High,High
+321,Bagumbayan,Santa Cruz,Laguna,Sitio 7,Garbage Collection,Urgent,Moderate,22,Residential Area,Morning,Rainy,2,Moderate,Moderate
+322,Bagumbayan,Santa Cruz,Laguna,Sitio 2,Tree Obstruction,Urgent,Severe,98,Commercial Area,Afternoon,Normal,1,High,High
+323,Bagumbayan,Santa Cruz,Laguna,Sitio 3,Water Leakage,Normal,Moderate,2,Residential Area,Morning,Normal,2,Moderate,Moderate
+324,Bagumbayan,Santa Cruz,Laguna,Sitio 5,Tree Obstruction,Normal,Severe,111,Residential Area,Morning,Normal,5,High,High
+325,Bagumbayan,Santa Cruz,Laguna,Sitio 5,Power Outage,Low,Severe,142,Highway,Morning,Rainy,6,High,High
+326,Bagumbayan,Santa Cruz,Laguna,Sitio 5,Garbage Collection,Low,Severe,100,Public Facility,Night,Normal,6,High,High
+327,Bagumbayan,Santa Cruz,Laguna,Sitio 3,Water Leakage,Low,Moderate,44,Highway,Morning,Normal,2,High,High
+328,Bagumbayan,Santa Cruz,Laguna,Sitio 3,Public Safety Incident,Normal,Moderate,112,Residential Area,Afternoon,Rainy,3,High,High
+329,Bagumbayan,Santa Cruz,Laguna,Sitio 2,Public Safety Incident,Urgent,Severe,127,Residential Area,Morning,Rainy,0,High,High
+330,Bagumbayan,Santa Cruz,Laguna,Sitio 4,Power Outage,Normal,Severe,102,Highway,Afternoon,Rainy,2,High,High
+331,Bagumbayan,Santa Cruz,Laguna,Sitio 6,Garbage Collection,Normal,Severe,77,Highway,Afternoon,Normal,6,High,High
+332,Bagumbayan,Santa Cruz,Laguna,Sitio 6,Public Safety Incident,Normal,Severe,82,Public Facility,Morning,Rainy,6,High,High
+333,Bagumbayan,Santa Cruz,Laguna,Sitio 1,Garbage Collection,Normal,Moderate,72,Public Facility,Night,Normal,0,High,High
+334,Bagumbayan,Santa Cruz,Laguna,Sitio 4,Water Leakage,Urgent,Minor,119,Residential Area,Afternoon,Storm,7,High,High
+335,Bagumbayan,Santa Cruz,Laguna,Sitio 2,Water Leakage,Urgent,Moderate,36,School Zone,Night,Rainy,6,High,High
+336,Bagumbayan,Santa Cruz,Laguna,Sitio 4,Tree Obstruction,Normal,Severe,19,Public Facility,Night,Storm,6,Moderate,Moderate
+337,Bagumbayan,Santa Cruz,Laguna,Sitio 6,Road Damage,Low,Moderate,140,Residential Area,Morning,Storm,5,High,High
+338,Bagumbayan,Santa Cruz,Laguna,Sitio 1,Tree Obstruction,Urgent,Severe,43,Commercial Area,Afternoon,Normal,0,High,High
+339,Bagumbayan,Santa Cruz,Laguna,Sitio 5,Garbage Collection,Normal,Minor,26,Highway,Afternoon,Rainy,7,Moderate,Moderate
+340,Bagumbayan,Santa Cruz,Laguna,Sitio 1,Public Safety Incident,Low,Moderate,129,Residential Area,Afternoon,Rainy,1,High,High
+341,Bagumbayan,Santa Cruz,Laguna,Sitio 3,Water Leakage,Urgent,Minor,30,Commercial Area,Afternoon,Normal,7,Low,Low
+342,Bagumbayan,Santa Cruz,Laguna,Sitio 4,Public Safety Incident,Normal,Minor,90,Commercial Area,Morning,Rainy,0,High,High
+343,Bagumbayan,Santa Cruz,Laguna,Sitio 6,Road Damage,Low,Moderate,30,School Zone,Night,Normal,2,Moderate,High
+344,Bagumbayan,Santa Cruz,Laguna,Sitio 5,Tree Obstruction,Low,Moderate,142,Highway,Morning,Rainy,2,High,High
+345,Bagumbayan,Santa Cruz,Laguna,Sitio 4,Tree Obstruction,Urgent,Severe,48,Residential Area,Night,Storm,3,High,High
+346,Bagumbayan,Santa Cruz,Laguna,Sitio 4,Streetlight Repair,Urgent,Moderate,116,School Zone,Morning,Rainy,1,High,High
+347,Bagumbayan,Santa Cruz,Laguna,Sitio 2,Power Outage,Low,Severe,148,Commercial Area,Morning,Rainy,1,High,High
+348,Bagumbayan,Santa Cruz,Laguna,Sitio 5,Power Outage,Urgent,Moderate,68,Public Facility,Afternoon,Storm,6,High,High
+349,Bagumbayan,Santa Cruz,Laguna,Sitio 7,Public Safety Incident,Normal,Moderate,30,Public Facility,Morning,Storm,4,Moderate,Moderate
+350,Bagumbayan,Santa Cruz,Laguna,Sitio 3,Road Damage,Urgent,Minor,22,School Zone,Afternoon,Normal,2,Low,High
+351,Bagumbayan,Santa Cruz,Laguna,Sitio 5,Tree Obstruction,Urgent,Minor,96,Highway,Night,Normal,6,High,High
+352,Bagumbayan,Santa Cruz,Laguna,Sitio 6,Flooding,Low,Moderate,109,Public Facility,Morning,Rainy,4,High,High
+353,Bagumbayan,Santa Cruz,Laguna,Sitio 7,Public Safety Incident,Low,Moderate,36,Public Facility,Morning,Rainy,0,High,High
+354,Bagumbayan,Santa Cruz,Laguna,Sitio 7,Tree Obstruction,Low,Minor,125,Public Facility,Night,Storm,7,High,High
+355,Bagumbayan,Santa Cruz,Laguna,Sitio 4,Public Safety Incident,Urgent,Moderate,105,Highway,Morning,Normal,0,High,High
+356,Bagumbayan,Santa Cruz,Laguna,Sitio 3,Garbage Collection,Normal,Minor,57,Public Facility,Afternoon,Normal,7,High,High
+357,Bagumbayan,Santa Cruz,Laguna,Sitio 5,Road Damage,Urgent,Moderate,145,Public Facility,Morning,Rainy,5,High,High
+358,Bagumbayan,Santa Cruz,Laguna,Sitio 4,Garbage Collection,Low,Severe,139,Highway,Morning,Storm,3,High,High
+359,Bagumbayan,Santa Cruz,Laguna,Sitio 3,Power Outage,Low,Moderate,77,Residential Area,Afternoon,Normal,3,High,High
+360,Bagumbayan,Santa Cruz,Laguna,Sitio 6,Power Outage,Urgent,Severe,54,Public Facility,Night,Rainy,2,High,High
+361,Bagumbayan,Santa Cruz,Laguna,Sitio 7,Streetlight Repair,Low,Minor,36,Public Facility,Afternoon,Storm,4,High,High
+362,Bagumbayan,Santa Cruz,Laguna,Sitio 6,Water Leakage,Low,Moderate,138,Commercial Area,Night,Rainy,1,High,High
+363,Bagumbayan,Santa Cruz,Laguna,Sitio 3,Flooding,Normal,Minor,35,School Zone,Morning,Normal,5,High,High
+364,Bagumbayan,Santa Cruz,Laguna,Sitio 4,Flooding,Urgent,Moderate,64,Public Facility,Night,Rainy,6,High,High
+365,Bagumbayan,Santa Cruz,Laguna,Sitio 6,Road Damage,Normal,Minor,97,Highway,Night,Storm,4,High,High
+366,Bagumbayan,Santa Cruz,Laguna,Sitio 3,Streetlight Repair,Normal,Moderate,95,Residential Area,Night,Rainy,5,High,High
+367,Bagumbayan,Santa Cruz,Laguna,Sitio 2,Tree Obstruction,Urgent,Moderate,17,School Zone,Afternoon,Rainy,5,Moderate,High
+368,Bagumbayan,Santa Cruz,Laguna,Sitio 5,Flooding,Normal,Severe,73,Public Facility,Afternoon,Rainy,0,High,High
+369,Bagumbayan,Santa Cruz,Laguna,Sitio 7,Public Safety Incident,Low,Severe,12,Residential Area,Morning,Normal,7,Low,Low
+370,Bagumbayan,Santa Cruz,Laguna,Sitio 2,Flooding,Low,Moderate,117,Commercial Area,Morning,Rainy,1,High,High
+371,Bagumbayan,Santa Cruz,Laguna,Sitio 3,Flooding,Normal,Minor,93,Residential Area,Afternoon,Storm,4,High,High
+372,Bagumbayan,Santa Cruz,Laguna,Sitio 1,Road Damage,Normal,Severe,60,Residential Area,Morning,Rainy,1,High,High
+373,Bagumbayan,Santa Cruz,Laguna,Sitio 5,Public Safety Incident,Urgent,Minor,34,Residential Area,Morning,Storm,5,High,High
+374,Bagumbayan,Santa Cruz,Laguna,Sitio 2,Public Safety Incident,Normal,Severe,31,Residential Area,Morning,Rainy,1,High,High
+375,Bagumbayan,Santa Cruz,Laguna,Sitio 3,Water Leakage,Low,Moderate,27,School Zone,Afternoon,Normal,2,Moderate,High
+376,Bagumbayan,Santa Cruz,Laguna,Sitio 1,Flooding,Urgent,Severe,18,Highway,Afternoon,Storm,3,High,High
+377,Bagumbayan,Santa Cruz,Laguna,Sitio 6,Public Safety Incident,Normal,Severe,39,School Zone,Morning,Normal,2,High,High
+378,Bagumbayan,Santa Cruz,Laguna,Sitio 4,Power Outage,Urgent,Severe,32,Highway,Afternoon,Normal,3,High,High
+379,Bagumbayan,Santa Cruz,Laguna,Sitio 2,Water Leakage,Urgent,Minor,71,Residential Area,Night,Rainy,3,High,High
+380,Bagumbayan,Santa Cruz,Laguna,Sitio 2,Tree Obstruction,Urgent,Severe,133,Commercial Area,Night,Normal,3,High,High
+381,Bagumbayan,Santa Cruz,Laguna,Sitio 2,Public Safety Incident,Normal,Minor,127,Public Facility,Morning,Storm,0,High,High
+382,Bagumbayan,Santa Cruz,Laguna,Sitio 4,Tree Obstruction,Normal,Minor,93,Commercial Area,Night,Storm,2,High,High
+383,Bagumbayan,Santa Cruz,Laguna,Sitio 5,Road Damage,Low,Minor,121,Residential Area,Afternoon,Normal,0,High,High
+384,Bagumbayan,Santa Cruz,Laguna,Sitio 3,Tree Obstruction,Normal,Severe,16,Highway,Night,Rainy,1,Moderate,Moderate
+385,Bagumbayan,Santa Cruz,Laguna,Sitio 2,Water Leakage,Urgent,Severe,138,Residential Area,Afternoon,Normal,3,High,High
+386,Bagumbayan,Santa Cruz,Laguna,Sitio 4,Road Damage,Urgent,Moderate,40,Commercial Area,Night,Rainy,3,High,High
+387,Bagumbayan,Santa Cruz,Laguna,Sitio 4,Road Damage,Low,Minor,15,Highway,Night,Storm,0,Low,Low
+388,Bagumbayan,Santa Cruz,Laguna,Sitio 6,Flooding,Urgent,Severe,80,Residential Area,Morning,Storm,2,High,High
+389,Bagumbayan,Santa Cruz,Laguna,Sitio 3,Water Leakage,Low,Moderate,3,School Zone,Afternoon,Normal,4,Moderate,High
+390,Bagumbayan,Santa Cruz,Laguna,Sitio 7,Tree Obstruction,Low,Moderate,31,Commercial Area,Night,Normal,4,High,High
+391,Bagumbayan,Santa Cruz,Laguna,Sitio 4,Public Safety Incident,Urgent,Minor,148,Public Facility,Afternoon,Normal,7,High,High
+392,Bagumbayan,Santa Cruz,Laguna,Sitio 2,Water Leakage,Low,Moderate,146,Residential Area,Night,Storm,1,High,High
+393,Bagumbayan,Santa Cruz,Laguna,Sitio 1,Streetlight Repair,Urgent,Severe,59,Residential Area,Morning,Normal,7,High,High
+394,Bagumbayan,Santa Cruz,Laguna,Sitio 2,Streetlight Repair,Normal,Minor,94,Public Facility,Night,Storm,6,High,High
+395,Bagumbayan,Santa Cruz,Laguna,Sitio 4,Power Outage,Normal,Minor,58,Commercial Area,Morning,Storm,5,High,High
+396,Bagumbayan,Santa Cruz,Laguna,Sitio 1,Flooding,Urgent,Severe,31,School Zone,Night,Normal,6,High,High
+397,Bagumbayan,Santa Cruz,Laguna,Sitio 7,Water Leakage,Normal,Moderate,18,Commercial Area,Morning,Storm,7,Moderate,Moderate
+398,Bagumbayan,Santa Cruz,Laguna,Sitio 3,Water Leakage,Normal,Minor,3,Public Facility,Morning,Rainy,5,Moderate,Moderate
+399,Bagumbayan,Santa Cruz,Laguna,Sitio 5,Garbage Collection,Low,Severe,127,School Zone,Morning,Rainy,0,High,High
+400,Bagumbayan,Santa Cruz,Laguna,Sitio 6,Streetlight Repair,Urgent,Moderate,60,Commercial Area,Morning,Storm,6,High,High
+401,Bagumbayan,Santa Cruz,Laguna,Sitio 5,Garbage Collection,Low,Minor,79,Highway,Afternoon,Normal,2,High,High
+402,Bagumbayan,Santa Cruz,Laguna,Sitio 2,Tree Obstruction,Low,Minor,72,Commercial Area,Afternoon,Storm,1,High,High
+403,Bagumbayan,Santa Cruz,Laguna,Sitio 2,Tree Obstruction,Low,Severe,149,Residential Area,Night,Storm,0,High,High
+404,Bagumbayan,Santa Cruz,Laguna,Sitio 2,Water Leakage,Urgent,Minor,112,Commercial Area,Afternoon,Rainy,5,High,High
+405,Bagumbayan,Santa Cruz,Laguna,Sitio 2,Road Damage,Normal,Moderate,82,School Zone,Morning,Storm,1,High,High
+406,Bagumbayan,Santa Cruz,Laguna,Sitio 4,Public Safety Incident,Low,Minor,40,Commercial Area,Afternoon,Normal,5,High,High
+407,Bagumbayan,Santa Cruz,Laguna,Sitio 4,Water Leakage,Normal,Moderate,54,Residential Area,Morning,Normal,4,High,High
+408,Bagumbayan,Santa Cruz,Laguna,Sitio 2,Road Damage,Low,Moderate,11,School Zone,Afternoon,Rainy,0,Moderate,High
+409,Bagumbayan,Santa Cruz,Laguna,Sitio 1,Tree Obstruction,Normal,Minor,77,Highway,Night,Storm,3,High,High
+410,Bagumbayan,Santa Cruz,Laguna,Sitio 7,Flooding,Normal,Minor,25,Residential Area,Morning,Normal,3,Moderate,Moderate
+411,Bagumbayan,Santa Cruz,Laguna,Sitio 3,Road Damage,Low,Moderate,34,Public Facility,Night,Rainy,1,High,High
+412,Bagumbayan,Santa Cruz,Laguna,Sitio 6,Public Safety Incident,Low,Minor,6,School Zone,Morning,Rainy,1,Low,High
+413,Bagumbayan,Santa Cruz,Laguna,Sitio 2,Tree Obstruction,Normal,Minor,11,Highway,Afternoon,Normal,6,Moderate,Moderate
+414,Bagumbayan,Santa Cruz,Laguna,Sitio 2,Flooding,Low,Moderate,110,Commercial Area,Afternoon,Rainy,2,High,High
+415,Bagumbayan,Santa Cruz,Laguna,Sitio 5,Garbage Collection,Urgent,Severe,9,Commercial Area,Afternoon,Rainy,7,High,High
+416,Bagumbayan,Santa Cruz,Laguna,Sitio 4,Flooding,Low,Moderate,16,Highway,Morning,Storm,3,Moderate,High
+417,Bagumbayan,Santa Cruz,Laguna,Sitio 7,Power Outage,Low,Moderate,140,Highway,Night,Rainy,5,High,High
+418,Bagumbayan,Santa Cruz,Laguna,Sitio 4,Water Leakage,Urgent,Moderate,145,School Zone,Morning,Rainy,3,High,High
+419,Bagumbayan,Santa Cruz,Laguna,Sitio 7,Public Safety Incident,Normal,Minor,8,Public Facility,Afternoon,Storm,3,Moderate,Moderate
+420,Bagumbayan,Santa Cruz,Laguna,Sitio 6,Garbage Collection,Low,Minor,41,Commercial Area,Night,Storm,0,High,High
+421,Bagumbayan,Santa Cruz,Laguna,Sitio 3,Flooding,Urgent,Moderate,57,School Zone,Morning,Storm,5,High,High
+422,Bagumbayan,Santa Cruz,Laguna,Sitio 6,Power Outage,Urgent,Minor,92,Public Facility,Night,Normal,3,High,High
+423,Bagumbayan,Santa Cruz,Laguna,Sitio 2,Public Safety Incident,Urgent,Moderate,127,Residential Area,Morning,Normal,3,High,High
+424,Bagumbayan,Santa Cruz,Laguna,Sitio 4,Streetlight Repair,Low,Severe,57,Commercial Area,Night,Normal,2,High,High
+425,Bagumbayan,Santa Cruz,Laguna,Sitio 7,Power Outage,Urgent,Minor,88,Residential Area,Morning,Normal,2,High,High
+426,Bagumbayan,Santa Cruz,Laguna,Sitio 1,Power Outage,Urgent,Moderate,29,Highway,Night,Normal,5,Moderate,Moderate
+427,Bagumbayan,Santa Cruz,Laguna,Sitio 2,Tree Obstruction,Normal,Minor,78,Highway,Night,Rainy,2,High,High
+428,Bagumbayan,Santa Cruz,Laguna,Sitio 7,Power Outage,Urgent,Severe,144,School Zone,Night,Storm,2,High,High
+429,Bagumbayan,Santa Cruz,Laguna,Sitio 6,Water Leakage,Normal,Severe,97,School Zone,Morning,Storm,0,High,High
+430,Bagumbayan,Santa Cruz,Laguna,Sitio 1,Flooding,Normal,Severe,147,Public Facility,Afternoon,Storm,3,High,High
+431,Bagumbayan,Santa Cruz,Laguna,Sitio 2,Power Outage,Low,Moderate,145,Residential Area,Morning,Rainy,5,High,High
+432,Bagumbayan,Santa Cruz,Laguna,Sitio 7,Power Outage,Urgent,Minor,43,Highway,Morning,Rainy,3,High,High
+433,Bagumbayan,Santa Cruz,Laguna,Sitio 3,Water Leakage,Urgent,Minor,64,Residential Area,Night,Normal,0,High,High
+434,Bagumbayan,Santa Cruz,Laguna,Sitio 4,Flooding,Normal,Severe,99,Highway,Afternoon,Rainy,5,High,High
+435,Bagumbayan,Santa Cruz,Laguna,Sitio 7,Public Safety Incident,Normal,Minor,140,Public Facility,Night,Storm,3,High,High
+436,Bagumbayan,Santa Cruz,Laguna,Sitio 7,Streetlight Repair,Normal,Minor,42,Commercial Area,Morning,Rainy,4,High,High
+437,Bagumbayan,Santa Cruz,Laguna,Sitio 2,Tree Obstruction,Low,Moderate,27,School Zone,Night,Normal,1,Moderate,High
+438,Bagumbayan,Santa Cruz,Laguna,Sitio 4,Streetlight Repair,Urgent,Severe,87,Highway,Night,Normal,6,High,High
+439,Bagumbayan,Santa Cruz,Laguna,Sitio 3,Garbage Collection,Low,Minor,41,School Zone,Afternoon,Storm,4,High,High
+440,Bagumbayan,Santa Cruz,Laguna,Sitio 1,Streetlight Repair,Normal,Minor,73,Highway,Night,Storm,7,High,High
+441,Bagumbayan,Santa Cruz,Laguna,Sitio 1,Tree Obstruction,Low,Moderate,40,Residential Area,Afternoon,Storm,7,High,High
+442,Bagumbayan,Santa Cruz,Laguna,Sitio 2,Flooding,Low,Minor,52,Commercial Area,Morning,Rainy,1,High,High
+443,Bagumbayan,Santa Cruz,Laguna,Sitio 4,Water Leakage,Normal,Moderate,79,Residential Area,Night,Storm,6,High,High
+444,Bagumbayan,Santa Cruz,Laguna,Sitio 3,Flooding,Normal,Moderate,48,Highway,Morning,Rainy,7,High,High
+445,Bagumbayan,Santa Cruz,Laguna,Sitio 7,Water Leakage,Normal,Minor,120,Public Facility,Morning,Normal,1,High,High
+446,Bagumbayan,Santa Cruz,Laguna,Sitio 7,Tree Obstruction,Urgent,Moderate,22,Public Facility,Morning,Storm,0,Moderate,Moderate
+447,Bagumbayan,Santa Cruz,Laguna,Sitio 5,Public Safety Incident,Urgent,Moderate,100,Public Facility,Morning,Rainy,4,High,High
+448,Bagumbayan,Santa Cruz,Laguna,Sitio 1,Flooding,Normal,Severe,21,Residential Area,Afternoon,Normal,2,Moderate,Moderate
+449,Bagumbayan,Santa Cruz,Laguna,Sitio 1,Tree Obstruction,Low,Minor,55,Residential Area,Night,Rainy,3,High,High
+450,Bagumbayan,Santa Cruz,Laguna,Sitio 3,Road Damage,Urgent,Moderate,38,Residential Area,Afternoon,Storm,6,High,High
+451,Bagumbayan,Santa Cruz,Laguna,Sitio 5,Public Safety Incident,Normal,Moderate,142,Residential Area,Night,Storm,6,High,High
+452,Bagumbayan,Santa Cruz,Laguna,Sitio 2,Road Damage,Normal,Minor,29,Residential Area,Night,Normal,4,Moderate,Moderate
+453,Bagumbayan,Santa Cruz,Laguna,Sitio 3,Tree Obstruction,Normal,Moderate,138,Highway,Night,Storm,7,High,High
+454,Bagumbayan,Santa Cruz,Laguna,Sitio 4,Flooding,Low,Moderate,10,Public Facility,Night,Storm,6,Moderate,High
+455,Bagumbayan,Santa Cruz,Laguna,Sitio 6,Garbage Collection,Normal,Moderate,10,Residential Area,Night,Rainy,4,Moderate,Moderate
+456,Bagumbayan,Santa Cruz,Laguna,Sitio 7,Water Leakage,Low,Moderate,96,Commercial Area,Afternoon,Rainy,1,High,High
+457,Bagumbayan,Santa Cruz,Laguna,Sitio 6,Public Safety Incident,Low,Moderate,59,Commercial Area,Afternoon,Storm,6,High,High
+458,Bagumbayan,Santa Cruz,Laguna,Sitio 2,Tree Obstruction,Low,Moderate,23,Highway,Night,Rainy,0,Moderate,Moderate
+459,Bagumbayan,Santa Cruz,Laguna,Sitio 3,Tree Obstruction,Low,Minor,132,School Zone,Night,Storm,0,High,High
+460,Bagumbayan,Santa Cruz,Laguna,Sitio 7,Streetlight Repair,Low,Minor,45,School Zone,Morning,Rainy,0,High,High
+461,Bagumbayan,Santa Cruz,Laguna,Sitio 3,Power Outage,Urgent,Minor,93,Highway,Night,Rainy,1,High,High
+462,Bagumbayan,Santa Cruz,Laguna,Sitio 4,Public Safety Incident,Low,Moderate,8,School Zone,Afternoon,Storm,5,Moderate,High
+463,Bagumbayan,Santa Cruz,Laguna,Sitio 6,Road Damage,Low,Moderate,89,Commercial Area,Morning,Rainy,0,High,High
+464,Bagumbayan,Santa Cruz,Laguna,Sitio 7,Garbage Collection,Urgent,Minor,42,School Zone,Night,Normal,4,High,High
+465,Bagumbayan,Santa Cruz,Laguna,Sitio 7,Streetlight Repair,Urgent,Minor,105,Highway,Morning,Storm,2,High,High
+466,Bagumbayan,Santa Cruz,Laguna,Sitio 5,Water Leakage,Low,Moderate,3,Commercial Area,Afternoon,Rainy,5,Moderate,Moderate
+467,Bagumbayan,Santa Cruz,Laguna,Sitio 4,Water Leakage,Normal,Minor,118,Public Facility,Night,Rainy,1,High,High
+468,Bagumbayan,Santa Cruz,Laguna,Sitio 7,Power Outage,Urgent,Severe,2,Public Facility,Night,Storm,4,High,High
+469,Bagumbayan,Santa Cruz,Laguna,Sitio 4,Road Damage,Urgent,Minor,77,Commercial Area,Afternoon,Storm,5,High,High
+470,Bagumbayan,Santa Cruz,Laguna,Sitio 6,Water Leakage,Normal,Severe,71,School Zone,Morning,Storm,3,High,High
+471,Bagumbayan,Santa Cruz,Laguna,Sitio 6,Power Outage,Urgent,Moderate,15,School Zone,Night,Normal,7,Moderate,High
+472,Bagumbayan,Santa Cruz,Laguna,Sitio 4,Tree Obstruction,Normal,Moderate,76,Residential Area,Night,Storm,3,High,High
+473,Bagumbayan,Santa Cruz,Laguna,Sitio 2,Public Safety Incident,Urgent,Severe,88,Commercial Area,Night,Rainy,2,High,High
+474,Bagumbayan,Santa Cruz,Laguna,Sitio 1,Public Safety Incident,Low,Moderate,143,School Zone,Night,Rainy,2,High,High
+475,Bagumbayan,Santa Cruz,Laguna,Sitio 2,Power Outage,Urgent,Minor,86,School Zone,Night,Rainy,6,High,High
+476,Bagumbayan,Santa Cruz,Laguna,Sitio 5,Water Leakage,Normal,Moderate,85,Highway,Morning,Rainy,0,High,High
+477,Bagumbayan,Santa Cruz,Laguna,Sitio 1,Public Safety Incident,Urgent,Severe,150,School Zone,Night,Normal,6,High,High
+478,Bagumbayan,Santa Cruz,Laguna,Sitio 1,Flooding,Normal,Moderate,136,School Zone,Morning,Rainy,6,High,High
+479,Bagumbayan,Santa Cruz,Laguna,Sitio 3,Flooding,Normal,Minor,146,Residential Area,Afternoon,Rainy,2,High,High
+480,Bagumbayan,Santa Cruz,Laguna,Sitio 1,Public Safety Incident,Urgent,Minor,81,Commercial Area,Morning,Normal,2,High,High
+481,Bagumbayan,Santa Cruz,Laguna,Sitio 5,Tree Obstruction,Low,Minor,126,Highway,Afternoon,Rainy,7,High,High
+482,Bagumbayan,Santa Cruz,Laguna,Sitio 5,Garbage Collection,Low,Minor,99,Commercial Area,Morning,Rainy,3,High,High
+483,Bagumbayan,Santa Cruz,Laguna,Sitio 6,Garbage Collection,Urgent,Minor,5,School Zone,Night,Rainy,4,Low,High
+484,Bagumbayan,Santa Cruz,Laguna,Sitio 5,Water Leakage,Low,Moderate,34,School Zone,Morning,Normal,4,High,High
+485,Bagumbayan,Santa Cruz,Laguna,Sitio 5,Power Outage,Normal,Severe,75,Highway,Night,Normal,5,High,High
+486,Bagumbayan,Santa Cruz,Laguna,Sitio 2,Tree Obstruction,Normal,Minor,126,Residential Area,Morning,Normal,2,High,High
+487,Bagumbayan,Santa Cruz,Laguna,Sitio 5,Flooding,Urgent,Minor,55,Residential Area,Afternoon,Storm,0,High,High
+488,Bagumbayan,Santa Cruz,Laguna,Sitio 7,Streetlight Repair,Urgent,Moderate,97,Public Facility,Morning,Storm,1,High,High
+489,Bagumbayan,Santa Cruz,Laguna,Sitio 1,Tree Obstruction,Low,Severe,6,Highway,Afternoon,Normal,4,Low,Low
+490,Bagumbayan,Santa Cruz,Laguna,Sitio 2,Streetlight Repair,Urgent,Minor,122,Commercial Area,Afternoon,Storm,1,High,High
+491,Bagumbayan,Santa Cruz,Laguna,Sitio 5,Flooding,Normal,Severe,134,Highway,Morning,Storm,1,High,High
+492,Bagumbayan,Santa Cruz,Laguna,Sitio 4,Garbage Collection,Low,Minor,73,Public Facility,Morning,Rainy,3,High,High
+493,Bagumbayan,Santa Cruz,Laguna,Sitio 3,Flooding,Urgent,Moderate,92,Residential Area,Night,Rainy,3,High,High
+494,Bagumbayan,Santa Cruz,Laguna,Sitio 1,Streetlight Repair,Normal,Minor,124,Residential Area,Morning,Storm,7,High,High
+495,Bagumbayan,Santa Cruz,Laguna,Sitio 1,Road Damage,Low,Severe,39,Commercial Area,Night,Normal,7,High,High
+496,Bagumbayan,Santa Cruz,Laguna,Sitio 1,Road Damage,Normal,Moderate,76,School Zone,Morning,Rainy,5,High,High
+497,Bagumbayan,Santa Cruz,Laguna,Sitio 1,Road Damage,Normal,Severe,81,Residential Area,Morning,Normal,2,High,High
+498,Bagumbayan,Santa Cruz,Laguna,Sitio 5,Water Leakage,Normal,Moderate,85,Residential Area,Afternoon,Rainy,2,High,High
+499,Bagumbayan,Santa Cruz,Laguna,Sitio 4,Water Leakage,Normal,Moderate,30,Highway,Night,Rainy,6,Moderate,Moderate
+500,Bagumbayan,Santa Cruz,Laguna,Sitio 6,Streetlight Repair,Low,Minor,43,School Zone,Morning,Rainy,7,High,High

@@ -1,0 +1,11 @@
+request_id,description,category,urgency_level,priority
+1,"Broken street light in main road","Infrastructure","High","High"
+2,"Request for garbage collection","Sanitation","Medium","Medium"
+3,"Noise complaint from neighbor","Public Order","Low","Low"
+4,"Water leak in public fountain","Infrastructure","High","High"
+5,"Suggestion for new park","Recreation","Low","Low"
+6,"Emergency medical assistance needed","Health","High","High"
+7,"Traffic signal malfunction","Infrastructure","High","High"
+8,"Lost pet report","Animal Control","Medium","Medium"
+9,"Graffiti on community wall","Public Order","Low","Low"
+10,"Request for senior citizen assistance","Social Services","Medium","Medium"
