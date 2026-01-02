@@ -26,7 +26,7 @@ features = {
 }
 
 if st.button("Predict Priority"):
-    ml_pred, final_pred, reasons = hybrid_prediction(features)
+    ml_pred, final_pred, reasons, recommendations = hybrid_prediction(features)
     st.subheader("ML Prediction")
     st.write(ml_pred)
     st.subheader("Final Priority (Hybrid)")
@@ -34,3 +34,6 @@ if st.button("Predict Priority"):
     st.subheader("Explanations")
     for reason in reasons:
         st.write(f"- {reason}")
+    st.subheader("Recommendations")
+    for recommendation in recommendations:
+        st.write(f"- {recommendation}")
